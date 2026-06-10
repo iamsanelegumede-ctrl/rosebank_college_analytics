@@ -19,7 +19,10 @@ INSERT INTO Students( Student_name, Student_marks, Status, Module_code, Course_n
 VALUES ('Ntokozo', 60, 'Pass', 'DS504', 'Data Science', 'Ketro Sithole', 'MR Dlamini', 2),
 ('Peter', 20, 'Fail', 'DS504','Data Science', 'Ketro Sithole', 'MR Xulu', 1),
 ( 'Sanele', 45, 'Fail', 'CB203', 'Cyber Security', 'Asif Hakeem', 'MS Adams',3),
-( 'Sylvester', 75, 'Pass', 'SD654', 'Software Engineering', 'Breakthrough', 'MR Wane', 4);
+( 'Sylvester', 75, 'Pass', 'SD654', 'Software Engineering', 'Breakthrough', 'MR Wane', 4),
+('Taryn', 65, 'Pass', 'CE905', 'Chemical Eng', 'Tobius', 'Jask', 3),
+('Tinder', 84, 'Pass', 'FD745', 'Fashion and Design', 'Zolelwa', 'Nosipho', 2),
+('Andile', 30, 'fail', 'DS504', 'Data science', 'Ketro Sithole', 'MR Dlamini', 4);
 
 SELECT *
 FROM Students;
