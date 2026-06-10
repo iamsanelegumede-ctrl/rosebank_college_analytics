@@ -27,4 +27,8 @@ VALUES ('Ntokozo', 60, 'Pass', 'DS504', 'Data Science', 'Ketro Sithole', 'MR Dla
 SELECT *
 FROM Students;
 
+SELECT *
+FROM Students;
+
+
 DROP TABLE Students;
